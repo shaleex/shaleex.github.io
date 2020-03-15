@@ -11,7 +11,7 @@
 header {
     padding-top: 40px;
     padding-left: 40px;
-    background-color: #222222;
+    background-color: #1C2541;
 }
 
 footer {
@@ -20,7 +20,7 @@ footer {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    background-color: #222222;
+    background-color: #31081f;
 }
 
 .pic {
@@ -63,7 +63,7 @@ nav {
 }
 
 .benefits {
-    background-color: #131313;
+    background-color: #31081f;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -202,19 +202,19 @@ a {
 }
 
 .contacts:active {
-    color: blue;
+    color: #777DA7;
 }
 
 .contacts-down {
-    color: #515151;
-}
-
-.contacts-down:hover {
     color: grey;
 }
 
+.contacts-down:hover {
+    color: #515151;
+}
+
 .contacts-down:active {
-    color: blue;
+    color: #777DA7;
 }
 
 hr {
